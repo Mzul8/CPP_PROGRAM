@@ -1,0 +1,2 @@
+Hasil Modulus 3 % 2 = 1
+Hasil Modulus 4 % 3 = 1
